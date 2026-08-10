@@ -73,3 +73,16 @@ function onClickSort() {
     alert(fruits)
 
 }
+let fruit=[]
+let vegetables=[]
+ function onClickVegetables(){
+    debugger;
+    let list1=document.getElementById("items").value
+    let list2 =document.getElementById("veg").value;
+
+    fruit.push(list1);
+    vegetables.push(list2);
+  
+    let result=vegetables.concat(fruit);
+    alert(result);
+ }
