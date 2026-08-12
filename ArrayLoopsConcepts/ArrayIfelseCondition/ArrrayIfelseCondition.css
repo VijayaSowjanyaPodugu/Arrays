@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+
+
+}
+.ahome{
+    text-align: center;
+    color: black;
+    border: 2px solid rgb(67, 67, 67);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
