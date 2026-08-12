@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+.a-div{
+    text-align: left;
+    color: black;
+    border: 2px solid black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.ahref{
+    background-color: rgb(78, 77, 77);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: left;
+    display: grid;
+    gap: 8px;
+
+}
