@@ -1,45 +1,66 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(206, 212, 213);
+    color: white;
+
 
 
 }
 
 .h1 {
-    text-align: center;
-    color: black;
-}
-
-.design {
-    text-align: center;
-    color: black;
-    border: 2px solid black;
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-.lbl {
-   color: black;
-   text-size-adjust: 100%;
-
-}
-
-.list {
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-}
-
-.btn {
     background-color: rgb(78, 77, 77);
+    text-align: center;
     color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    border: none;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 20px;
+
+}
+
+.main-container {
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.label1 {
+     color: black;
+    text-size-adjust: 100%;
+}
+
+
+.button1 {
+    padding: 10px ;
     cursor: pointer;
     border-radius: 8px;
-    justify-content: space-between;
+
+}
+.btn1{
+    background-color: rgb(78, 77, 77);
+    color: white;
+    border-radius: 8px;
+    
+
+}
+.example{
+   color:rgb(78, 77, 77);
+   
+}
+
+
+
+.button2{
+    padding: 10px ;
+    cursor: pointer;
+    border-radius: 8px;
+
+}
+.btn2{
+    background-color: rgb(78, 77, 77);
+    color: white;
+    border-radius: 8px;
     
 
 }
