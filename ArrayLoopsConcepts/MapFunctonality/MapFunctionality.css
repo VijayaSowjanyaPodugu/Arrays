@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(206, 212, 213);
+    padding: 35px;
+    margin: 30px;
+}
+.heading{
+    background-color: rgb(78, 77, 77);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
