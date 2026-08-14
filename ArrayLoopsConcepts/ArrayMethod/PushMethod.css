@@ -45,11 +45,15 @@ body {
 
 }
 .example{
-   color:rgb(78, 77, 77);
+
    
 }
 
-
+.label2 {
+     color: black;
+    text-size-adjust: 100%;
+    padding: 10px;
+}
 
 .button2{
     padding: 10px ;
